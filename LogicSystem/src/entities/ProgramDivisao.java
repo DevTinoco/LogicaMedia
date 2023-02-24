@@ -10,7 +10,7 @@ public class ProgramDivisao {
 		Locale.setDefault(Locale.US);
 		
 		Scanner sc = new Scanner (System.in);
-		//
+		//PROGRAMA DE MEDIA. 
 		
 		
 		int a,b,c,d,media,soma,resto;
